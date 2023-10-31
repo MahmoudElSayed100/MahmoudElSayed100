@@ -2,7 +2,7 @@
 <h3 align="center">Data Engineer by day, Data Analyst by night</h3>
 <img align="right" alt="Coding" width="400" src="https://www.guvi.in/blog/wp-content/uploads/2023/01/giphy.gif">
 
-- 👨‍💻 All of my projects are available at [https://github.com/MahmoudElSayed100?tab=repositories](https://github.com/MahmoudElSayed100?tab=repositories)
+- 👨‍💻 All of my projects are available [here](https://github.com/MahmoudElSayed100?tab=repositories)
 
 - 📫 How to reach me **mahmoudelsayed121810@gmail.com**
 
