@@ -6,8 +6,6 @@
 
 - 📫 How to reach me **mahmoudelsayed121810@gmail.com**
 
-- 📄 Know about my experiences [here](https://drive.google.com/file/d/1P5rA9ef1Fw5iP_2MIRzMd6ptCteoyu4v/view)
-
 - ⚡ Fun fact: **My fingers are like Usain Bolt on the keyboard! ⌨️💨**
 
 <h3 align="left">Connect with me:</h3>
